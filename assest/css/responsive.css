@@ -1,0 +1,219 @@
+/*******************************
+	All Responsive Code
+*******************************/
+
+@media screen and (max-width: 1199px){
+	h1 {
+		font-family: "Josefin Sans", sans-serif;
+		font-size: 42px;
+		line-height: 52px;
+	  }
+	  
+	  h2 {
+		font-family: "Josefin Sans", sans-serif;
+		font-size: 28px;
+		line-height: 38px;
+	  }
+	  
+	  h3 {
+		font-family: "Josefin Sans", sans-serif;
+		font-size: 32px;
+		line-height: 42px;
+	  }
+	  
+	  h4 {
+		font-family: "Josefin Sans", sans-serif;
+		font-size: 24px;
+		line-height: 34px;
+	  }
+      h5{
+        font-size: 18px;
+      }
+}
+
+@media screen and (max-width: 991px) {
+
+	h1 {
+		font-family: "Josefin Sans", sans-serif;
+		font-size: 42px;
+		line-height: 52px;
+	  }
+	  
+	  h2 {
+		font-family: "Josefin Sans", sans-serif;
+		font-size: 28px;
+		line-height: 38px;
+	  }
+	  
+	  h3 {
+		font-family: "Josefin Sans", sans-serif;
+		font-size: 32px;
+		line-height: 42px;
+	  }
+	  
+	  h4 {
+		font-family: "Josefin Sans", sans-serif;
+		font-size: 24px;
+		line-height: 34px;
+	  }
+	  .coin-price-item{
+		margin-bottom: -290px;
+	  }
+	.about-item-box{
+		margin-bottom: -85%;
+	}
+	.about-content {
+		padding: 0 23px;
+	}
+	.ball-img{
+		display: none;
+	}
+	.today-img h3{
+		color: #6342ff;
+	}
+	.today-img h1{
+		color:#33276a;
+	}
+	.today-img p{
+		color:#5d5779;
+	}
+	.today-statistic{
+		padding: 260px 0 60px 0;
+	}
+	.security-section{
+		padding: 60px 0 60px 0;
+	}
+	.security-box{
+		margin-bottom: 0px;
+	}
+	.security-left {
+		position: absolute;
+		content: '';
+		max-width: 50%;
+		left: -30%;
+		top: 24%;
+	}
+	.security-right {
+		position: absolute;
+		content: '';
+		right: -30%;
+		max-width: 50%;
+		top: 24%;
+	}
+	.testimonial-section{
+		padding: 60px 0 60px 0;
+	}
+	.test-bg-img{
+		display: none;
+	}
+	.testimonial{
+		text-align: center;
+		margin-top: 100px;
+		margin-bottom: -60px;
+	}
+	.testimonial-item-box{
+		position: relative;
+		transition: 0.3s;
+	}
+	.testimonial-item-box:hover{
+		margin-top: 215px;
+	}
+	.client-1:hover{
+		margin-top: 335px;
+	}
+	.client-rivews{
+		top: -80%;
+		left: 48%;
+		transform: translate(-50%, -50%);
+	}
+     .client-1 {
+		margin-top: 20px;
+		left: 50%;
+		transform: translate(-50%, -50%);
+	}
+	.client-2 {
+		margin-top: 20px;
+		left: 50%;
+		transform: translate(-50%, -50%);
+	}
+	.client-3 {
+		margin-top: 20px;
+		left: 50%;
+		transform: translate(-50%, -50%);
+	}
+	.client-4 {
+		margin-top: 20px;
+		left: 50%;
+		transform: translate(-50%, -50%);
+	}
+	.client-5 {
+		left: 50%;
+		transform: translate(-50%, -50%);
+	}
+	.client-6 {
+		margin-top: 20px;
+		margin-top: 215px;
+		left: 50%;
+		transform: translate(-50%, -50%);
+	}
+	.footer-section{
+		padding: 60px 0 60px 0;
+	}
+	.copyright-area{
+		margin-top: 50px;
+	}
+
+}
+
+
+@media screen and (max-width: 768px) {
+	.about-item-box{
+		margin-bottom: -115%;
+	}
+	.inner-right{
+		padding: 63px 9px 41px 10px;
+	}
+	.how-dose-work {
+		padding: 26px 0px 30px 0;
+	}
+	.about-section{
+		padding: 30px 0 170px 0;
+	}
+	.today-statistic {
+		padding: 290px 0 30px 0;
+	}
+	.security-section {
+		padding: 30px 0 60px 0;
+	}
+	.footer-section{
+		padding: 60px 0 60px 0;
+	}
+
+}
+
+@media screen and (max-width: 575px) {
+	.today-statistic {
+		padding: 230px 0 30px 0;
+	}
+}
+
+@media screen and (max-width: 420px) {
+
+
+}
+
+@media screen and (max-width: 396px) {
+	.logo-img{
+		display: block;
+		text-align: center;
+	}
+	.logo-btn{
+		margin-top: 20px;
+		display: block;
+	}
+
+}
+
+/*******************************
+	All Responsive Code end
+*******************************/
